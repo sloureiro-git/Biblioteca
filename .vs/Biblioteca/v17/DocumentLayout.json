@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1CD670-67D1-4D05-B8D7-D6FA984BEE70}|Presentacion\\Presentacion.csproj|c:\\users\\santiago\\source\\repos\\biblioteca\\presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE1CD670-67D1-4D05-B8D7-D6FA984BEE70}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE1CD670-67D1-4D05-B8D7-D6FA984BEE70}|Presentacion\\Presentacion.csproj|C:\\Users\\Santiago\\source\\repos\\Biblioteca\\presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DE1CD670-67D1-4D05-B8D7-D6FA984BEE70}|Presentacion\\Presentacion.csproj|solutionrelative:presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087EAF7B-DEF5-4DFD-836B-6AB6BCD7C799}|Logica\\Logica.csproj|c:\\users\\santiago\\source\\repos\\biblioteca\\logica\\logicalibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087EAF7B-DEF5-4DFD-836B-6AB6BCD7C799}|Logica\\Logica.csproj|solutionrelative:logica\\logicalibro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A59F0974-9713-44BA-B1D0-D8C63A91B299}|Entidades\\Entidades.csproj|c:\\users\\santiago\\source\\repos\\biblioteca\\entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A59F0974-9713-44BA-B1D0-D8C63A91B299}|Entidades\\Entidades.csproj|solutionrelative:entidades\\libro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Libro.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Entidades\\Libro.cs",
+              "RelativeDocumentMoniker": "Entidades\\Libro.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Entidades\\Libro.cs",
+              "RelativeToolTip": "Entidades\\Libro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T21:05:24.412Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogicaLibro.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Logica\\LogicaLibro.cs",
+              "RelativeDocumentMoniker": "Logica\\LogicaLibro.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Logica\\LogicaLibro.cs",
+              "RelativeToolTip": "Logica\\LogicaLibro.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:31:31.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Presentacion\\FormPrincipal.cs",
+              "RelativeToolTip": "Presentacion\\FormPrincipal.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAlwCAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:28:01.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Presentacion\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Santiago\\source\\repos\\Biblioteca\\Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T15:27:56.613Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

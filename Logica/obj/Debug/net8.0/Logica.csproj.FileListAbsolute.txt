@@ -1,0 +1,17 @@
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Logica.deps.json
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Logica.dll
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Logica.pdb
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Entidades.dll
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Persistencia.dll
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Entidades.pdb
+C:\Users\Santiago\source\repos\Biblioteca\Logica\bin\Debug\net8.0\Persistencia.pdb
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.csproj.AssemblyReference.cache
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.AssemblyInfoInputs.cache
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.AssemblyInfo.cs
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.csproj.Up2Date
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.dll
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\refint\Logica.dll
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\Logica.pdb
+C:\Users\Santiago\source\repos\Biblioteca\Logica\obj\Debug\net8.0\ref\Logica.dll
